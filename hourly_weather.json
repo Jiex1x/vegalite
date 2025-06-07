@@ -1,0 +1,1406 @@
+[
+  {
+    "time": "2025-06-06T20:00:00",
+    "temperature": 64,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 84,
+    "day": "Fri",
+    "hour": "8PM"
+  },
+  {
+    "time": "2025-06-06T21:00:00",
+    "temperature": 64,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 86,
+    "day": "Fri",
+    "hour": "9PM"
+  },
+  {
+    "time": "2025-06-06T22:00:00",
+    "temperature": 63,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 90,
+    "day": "Fri",
+    "hour": "10PM"
+  },
+  {
+    "time": "2025-06-06T23:00:00",
+    "temperature": 63,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 89,
+    "day": "Fri",
+    "hour": "11PM"
+  },
+  {
+    "time": "2025-06-07T00:00:00",
+    "temperature": 62,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 89,
+    "day": "Sat",
+    "hour": "12AM"
+  },
+  {
+    "time": "2025-06-07T01:00:00",
+    "temperature": 62,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 89,
+    "day": "Sat",
+    "hour": "1AM"
+  },
+  {
+    "time": "2025-06-07T02:00:00",
+    "temperature": 62,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 89,
+    "day": "Sat",
+    "hour": "2AM"
+  },
+  {
+    "time": "2025-06-07T03:00:00",
+    "temperature": 62,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 90,
+    "day": "Sat",
+    "hour": "3AM"
+  },
+  {
+    "time": "2025-06-07T04:00:00",
+    "temperature": 61,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 91,
+    "day": "Sat",
+    "hour": "4AM"
+  },
+  {
+    "time": "2025-06-07T05:00:00",
+    "temperature": 62,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 89,
+    "day": "Sat",
+    "hour": "5AM"
+  },
+  {
+    "time": "2025-06-07T06:00:00",
+    "temperature": 62,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 90,
+    "day": "Sat",
+    "hour": "6AM"
+  },
+  {
+    "time": "2025-06-07T07:00:00",
+    "temperature": 62,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 89,
+    "day": "Sat",
+    "hour": "7AM"
+  },
+  {
+    "time": "2025-06-07T08:00:00",
+    "temperature": 64,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 89,
+    "day": "Sat",
+    "hour": "8AM"
+  },
+  {
+    "time": "2025-06-07T09:00:00",
+    "temperature": 65,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 84,
+    "day": "Sat",
+    "hour": "9AM"
+  },
+  {
+    "time": "2025-06-07T10:00:00",
+    "temperature": 68,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 80,
+    "day": "Sat",
+    "hour": "10AM"
+  },
+  {
+    "time": "2025-06-07T11:00:00",
+    "temperature": 70,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 76,
+    "day": "Sat",
+    "hour": "11AM"
+  },
+  {
+    "time": "2025-06-07T12:00:00",
+    "temperature": 72,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 70,
+    "day": "Sat",
+    "hour": "12PM"
+  },
+  {
+    "time": "2025-06-07T13:00:00",
+    "temperature": 73,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 68,
+    "day": "Sat",
+    "hour": "1PM"
+  },
+  {
+    "time": "2025-06-07T14:00:00",
+    "temperature": 74,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 67,
+    "day": "Sat",
+    "hour": "2PM"
+  },
+  {
+    "time": "2025-06-07T15:00:00",
+    "temperature": 74,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 67,
+    "day": "Sat",
+    "hour": "3PM"
+  },
+  {
+    "time": "2025-06-07T16:00:00",
+    "temperature": 73,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 68,
+    "day": "Sat",
+    "hour": "4PM"
+  },
+  {
+    "time": "2025-06-07T17:00:00",
+    "temperature": 72,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 70,
+    "day": "Sat",
+    "hour": "5PM"
+  },
+  {
+    "time": "2025-06-07T18:00:00",
+    "temperature": 71,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 73,
+    "day": "Sat",
+    "hour": "6PM"
+  },
+  {
+    "time": "2025-06-07T19:00:00",
+    "temperature": 68,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 79,
+    "day": "Sat",
+    "hour": "7PM"
+  },
+  {
+    "time": "2025-06-07T20:00:00",
+    "temperature": 65,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 84,
+    "day": "Sat",
+    "hour": "8PM"
+  },
+  {
+    "time": "2025-06-07T21:00:00",
+    "temperature": 64,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 87,
+    "day": "Sat",
+    "hour": "9PM"
+  },
+  {
+    "time": "2025-06-07T22:00:00",
+    "temperature": 63,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 90,
+    "day": "Sat",
+    "hour": "10PM"
+  },
+  {
+    "time": "2025-06-07T23:00:00",
+    "temperature": 62,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 93,
+    "day": "Sat",
+    "hour": "11PM"
+  },
+  {
+    "time": "2025-06-08T00:00:00",
+    "temperature": 62,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 94,
+    "day": "Sun",
+    "hour": "12AM"
+  },
+  {
+    "time": "2025-06-08T01:00:00",
+    "temperature": 62,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 93,
+    "day": "Sun",
+    "hour": "1AM"
+  },
+  {
+    "time": "2025-06-08T02:00:00",
+    "temperature": 62,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 92,
+    "day": "Sun",
+    "hour": "2AM"
+  },
+  {
+    "time": "2025-06-08T03:00:00",
+    "temperature": 61,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 93,
+    "day": "Sun",
+    "hour": "3AM"
+  },
+  {
+    "time": "2025-06-08T04:00:00",
+    "temperature": 61,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 93,
+    "day": "Sun",
+    "hour": "4AM"
+  },
+  {
+    "time": "2025-06-08T05:00:00",
+    "temperature": 60,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 93,
+    "day": "Sun",
+    "hour": "5AM"
+  },
+  {
+    "time": "2025-06-08T06:00:00",
+    "temperature": 61,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 92,
+    "day": "Sun",
+    "hour": "6AM"
+  },
+  {
+    "time": "2025-06-08T07:00:00",
+    "temperature": 62,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 92,
+    "day": "Sun",
+    "hour": "7AM"
+  },
+  {
+    "time": "2025-06-08T08:00:00",
+    "temperature": 63,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 91,
+    "day": "Sun",
+    "hour": "8AM"
+  },
+  {
+    "time": "2025-06-08T09:00:00",
+    "temperature": 66,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 86,
+    "day": "Sun",
+    "hour": "9AM"
+  },
+  {
+    "time": "2025-06-08T10:00:00",
+    "temperature": 68,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 81,
+    "day": "Sun",
+    "hour": "10AM"
+  },
+  {
+    "time": "2025-06-08T11:00:00",
+    "temperature": 70,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 76,
+    "day": "Sun",
+    "hour": "11AM"
+  },
+  {
+    "time": "2025-06-08T12:00:00",
+    "temperature": 72,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 71,
+    "day": "Sun",
+    "hour": "12PM"
+  },
+  {
+    "time": "2025-06-08T13:00:00",
+    "temperature": 74,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 68,
+    "day": "Sun",
+    "hour": "1PM"
+  },
+  {
+    "time": "2025-06-08T14:00:00",
+    "temperature": 74,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 66,
+    "day": "Sun",
+    "hour": "2PM"
+  },
+  {
+    "time": "2025-06-08T15:00:00",
+    "temperature": 75,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 65,
+    "day": "Sun",
+    "hour": "3PM"
+  },
+  {
+    "time": "2025-06-08T16:00:00",
+    "temperature": 74,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 65,
+    "day": "Sun",
+    "hour": "4PM"
+  },
+  {
+    "time": "2025-06-08T17:00:00",
+    "temperature": 73,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 67,
+    "day": "Sun",
+    "hour": "5PM"
+  },
+  {
+    "time": "2025-06-08T18:00:00",
+    "temperature": 71,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 72,
+    "day": "Sun",
+    "hour": "6PM"
+  },
+  {
+    "time": "2025-06-08T19:00:00",
+    "temperature": 68,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 78,
+    "day": "Sun",
+    "hour": "7PM"
+  },
+  {
+    "time": "2025-06-08T20:00:00",
+    "temperature": 66,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 84,
+    "day": "Sun",
+    "hour": "8PM"
+  },
+  {
+    "time": "2025-06-08T21:00:00",
+    "temperature": 65,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 89,
+    "day": "Sun",
+    "hour": "9PM"
+  },
+  {
+    "time": "2025-06-08T22:00:00",
+    "temperature": 64,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 92,
+    "day": "Sun",
+    "hour": "10PM"
+  },
+  {
+    "time": "2025-06-08T23:00:00",
+    "temperature": 63,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 94,
+    "day": "Sun",
+    "hour": "11PM"
+  },
+  {
+    "time": "2025-06-09T00:00:00",
+    "temperature": 62,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 95,
+    "day": "Mon",
+    "hour": "12AM"
+  },
+  {
+    "time": "2025-06-09T01:00:00",
+    "temperature": 62,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 95,
+    "day": "Mon",
+    "hour": "1AM"
+  },
+  {
+    "time": "2025-06-09T02:00:00",
+    "temperature": 62,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 95,
+    "day": "Mon",
+    "hour": "2AM"
+  },
+  {
+    "time": "2025-06-09T03:00:00",
+    "temperature": 62,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 95,
+    "day": "Mon",
+    "hour": "3AM"
+  },
+  {
+    "time": "2025-06-09T04:00:00",
+    "temperature": 62,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 95,
+    "day": "Mon",
+    "hour": "4AM"
+  },
+  {
+    "time": "2025-06-09T05:00:00",
+    "temperature": 62,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 94,
+    "day": "Mon",
+    "hour": "5AM"
+  },
+  {
+    "time": "2025-06-09T06:00:00",
+    "temperature": 62,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 95,
+    "day": "Mon",
+    "hour": "6AM"
+  },
+  {
+    "time": "2025-06-09T07:00:00",
+    "temperature": 63,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 96,
+    "day": "Mon",
+    "hour": "7AM"
+  },
+  {
+    "time": "2025-06-09T08:00:00",
+    "temperature": 64,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 94,
+    "day": "Mon",
+    "hour": "8AM"
+  },
+  {
+    "time": "2025-06-09T09:00:00",
+    "temperature": 66,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 88,
+    "day": "Mon",
+    "hour": "9AM"
+  },
+  {
+    "time": "2025-06-09T10:00:00",
+    "temperature": 69,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 82,
+    "day": "Mon",
+    "hour": "10AM"
+  },
+  {
+    "time": "2025-06-09T11:00:00",
+    "temperature": 72,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 76,
+    "day": "Mon",
+    "hour": "11AM"
+  },
+  {
+    "time": "2025-06-09T12:00:00",
+    "temperature": 73,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 71,
+    "day": "Mon",
+    "hour": "12PM"
+  },
+  {
+    "time": "2025-06-09T13:00:00",
+    "temperature": 75,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 68,
+    "day": "Mon",
+    "hour": "1PM"
+  },
+  {
+    "time": "2025-06-09T14:00:00",
+    "temperature": 75,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 67,
+    "day": "Mon",
+    "hour": "2PM"
+  },
+  {
+    "time": "2025-06-09T15:00:00",
+    "temperature": 75,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 67,
+    "day": "Mon",
+    "hour": "3PM"
+  },
+  {
+    "time": "2025-06-09T16:00:00",
+    "temperature": 74,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 68,
+    "day": "Mon",
+    "hour": "4PM"
+  },
+  {
+    "time": "2025-06-09T17:00:00",
+    "temperature": 73,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 70,
+    "day": "Mon",
+    "hour": "5PM"
+  },
+  {
+    "time": "2025-06-09T18:00:00",
+    "temperature": 71,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 75,
+    "day": "Mon",
+    "hour": "6PM"
+  },
+  {
+    "time": "2025-06-09T19:00:00",
+    "temperature": 69,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 80,
+    "day": "Mon",
+    "hour": "7PM"
+  },
+  {
+    "time": "2025-06-09T20:00:00",
+    "temperature": 67,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 85,
+    "day": "Mon",
+    "hour": "8PM"
+  },
+  {
+    "time": "2025-06-09T21:00:00",
+    "temperature": 65,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 89,
+    "day": "Mon",
+    "hour": "9PM"
+  },
+  {
+    "time": "2025-06-09T22:00:00",
+    "temperature": 64,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 92,
+    "day": "Mon",
+    "hour": "10PM"
+  },
+  {
+    "time": "2025-06-09T23:00:00",
+    "temperature": 64,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 94,
+    "day": "Mon",
+    "hour": "11PM"
+  },
+  {
+    "time": "2025-06-10T00:00:00",
+    "temperature": 63,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 96,
+    "day": "Tue",
+    "hour": "12AM"
+  },
+  {
+    "time": "2025-06-10T01:00:00",
+    "temperature": 62,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 97,
+    "day": "Tue",
+    "hour": "1AM"
+  },
+  {
+    "time": "2025-06-10T02:00:00",
+    "temperature": 62,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 97,
+    "day": "Tue",
+    "hour": "2AM"
+  },
+  {
+    "time": "2025-06-10T03:00:00",
+    "temperature": 62,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 98,
+    "day": "Tue",
+    "hour": "3AM"
+  },
+  {
+    "time": "2025-06-10T04:00:00",
+    "temperature": 62,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 97,
+    "day": "Tue",
+    "hour": "4AM"
+  },
+  {
+    "time": "2025-06-10T05:00:00",
+    "temperature": 62,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 96,
+    "day": "Tue",
+    "hour": "5AM"
+  },
+  {
+    "time": "2025-06-10T06:00:00",
+    "temperature": 63,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 96,
+    "day": "Tue",
+    "hour": "6AM"
+  },
+  {
+    "time": "2025-06-10T07:00:00",
+    "temperature": 64,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 94,
+    "day": "Tue",
+    "hour": "7AM"
+  },
+  {
+    "time": "2025-06-10T08:00:00",
+    "temperature": 66,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 91,
+    "day": "Tue",
+    "hour": "8AM"
+  },
+  {
+    "time": "2025-06-10T09:00:00",
+    "temperature": 68,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 85,
+    "day": "Tue",
+    "hour": "9AM"
+  },
+  {
+    "time": "2025-06-10T10:00:00",
+    "temperature": 71,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 79,
+    "day": "Tue",
+    "hour": "10AM"
+  },
+  {
+    "time": "2025-06-10T11:00:00",
+    "temperature": 74,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 74,
+    "day": "Tue",
+    "hour": "11AM"
+  },
+  {
+    "time": "2025-06-10T12:00:00",
+    "temperature": 75,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 70,
+    "day": "Tue",
+    "hour": "12PM"
+  },
+  {
+    "time": "2025-06-10T13:00:00",
+    "temperature": 76,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 68,
+    "day": "Tue",
+    "hour": "1PM"
+  },
+  {
+    "time": "2025-06-10T14:00:00",
+    "temperature": 77,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 67,
+    "day": "Tue",
+    "hour": "2PM"
+  },
+  {
+    "time": "2025-06-10T15:00:00",
+    "temperature": 77,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 66,
+    "day": "Tue",
+    "hour": "3PM"
+  },
+  {
+    "time": "2025-06-10T16:00:00",
+    "temperature": 76,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 66,
+    "day": "Tue",
+    "hour": "4PM"
+  },
+  {
+    "time": "2025-06-10T17:00:00",
+    "temperature": 75,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 68,
+    "day": "Tue",
+    "hour": "5PM"
+  },
+  {
+    "time": "2025-06-10T18:00:00",
+    "temperature": 73,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 72,
+    "day": "Tue",
+    "hour": "6PM"
+  },
+  {
+    "time": "2025-06-10T19:00:00",
+    "temperature": 70,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 77,
+    "day": "Tue",
+    "hour": "7PM"
+  },
+  {
+    "time": "2025-06-10T20:00:00",
+    "temperature": 68,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 83,
+    "day": "Tue",
+    "hour": "8PM"
+  },
+  {
+    "time": "2025-06-10T21:00:00",
+    "temperature": 66,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 88,
+    "day": "Tue",
+    "hour": "9PM"
+  },
+  {
+    "time": "2025-06-10T22:00:00",
+    "temperature": 65,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 91,
+    "day": "Tue",
+    "hour": "10PM"
+  },
+  {
+    "time": "2025-06-10T23:00:00",
+    "temperature": 64,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 94,
+    "day": "Tue",
+    "hour": "11PM"
+  },
+  {
+    "time": "2025-06-11T00:00:00",
+    "temperature": 64,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 96,
+    "day": "Wed",
+    "hour": "12AM"
+  },
+  {
+    "time": "2025-06-11T01:00:00",
+    "temperature": 64,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 96,
+    "day": "Wed",
+    "hour": "1AM"
+  },
+  {
+    "time": "2025-06-11T02:00:00",
+    "temperature": 63,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 96,
+    "day": "Wed",
+    "hour": "2AM"
+  },
+  {
+    "time": "2025-06-11T03:00:00",
+    "temperature": 63,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 97,
+    "day": "Wed",
+    "hour": "3AM"
+  },
+  {
+    "time": "2025-06-11T04:00:00",
+    "temperature": 62,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 97,
+    "day": "Wed",
+    "hour": "4AM"
+  },
+  {
+    "time": "2025-06-11T05:00:00",
+    "temperature": 62,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 96,
+    "day": "Wed",
+    "hour": "5AM"
+  },
+  {
+    "time": "2025-06-11T06:00:00",
+    "temperature": 63,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 96,
+    "day": "Wed",
+    "hour": "6AM"
+  },
+  {
+    "time": "2025-06-11T07:00:00",
+    "temperature": 65,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 93,
+    "day": "Wed",
+    "hour": "7AM"
+  },
+  {
+    "time": "2025-06-11T08:00:00",
+    "temperature": 66,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 90,
+    "day": "Wed",
+    "hour": "8AM"
+  },
+  {
+    "time": "2025-06-11T09:00:00",
+    "temperature": 68,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 85,
+    "day": "Wed",
+    "hour": "9AM"
+  },
+  {
+    "time": "2025-06-11T10:00:00",
+    "temperature": 71,
+    "windSpeed": 0,
+    "probPrecip": 0,
+    "humidity": 79,
+    "day": "Wed",
+    "hour": "10AM"
+  },
+  {
+    "time": "2025-06-11T11:00:00",
+    "temperature": 73,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 75,
+    "day": "Wed",
+    "hour": "11AM"
+  },
+  {
+    "time": "2025-06-11T12:00:00",
+    "temperature": 75,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 71,
+    "day": "Wed",
+    "hour": "12PM"
+  },
+  {
+    "time": "2025-06-11T13:00:00",
+    "temperature": 76,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 68,
+    "day": "Wed",
+    "hour": "1PM"
+  },
+  {
+    "time": "2025-06-11T14:00:00",
+    "temperature": 76,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 67,
+    "day": "Wed",
+    "hour": "2PM"
+  },
+  {
+    "time": "2025-06-11T15:00:00",
+    "temperature": 76,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 66,
+    "day": "Wed",
+    "hour": "3PM"
+  },
+  {
+    "time": "2025-06-11T16:00:00",
+    "temperature": 75,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 68,
+    "day": "Wed",
+    "hour": "4PM"
+  },
+  {
+    "time": "2025-06-11T17:00:00",
+    "temperature": 74,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 70,
+    "day": "Wed",
+    "hour": "5PM"
+  },
+  {
+    "time": "2025-06-11T18:00:00",
+    "temperature": 71,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 75,
+    "day": "Wed",
+    "hour": "6PM"
+  },
+  {
+    "time": "2025-06-11T19:00:00",
+    "temperature": 69,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 81,
+    "day": "Wed",
+    "hour": "7PM"
+  },
+  {
+    "time": "2025-06-11T20:00:00",
+    "temperature": 67,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 86,
+    "day": "Wed",
+    "hour": "8PM"
+  },
+  {
+    "time": "2025-06-11T21:00:00",
+    "temperature": 65,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 90,
+    "day": "Wed",
+    "hour": "9PM"
+  },
+  {
+    "time": "2025-06-11T22:00:00",
+    "temperature": 64,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 92,
+    "day": "Wed",
+    "hour": "10PM"
+  },
+  {
+    "time": "2025-06-11T23:00:00",
+    "temperature": 64,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 94,
+    "day": "Wed",
+    "hour": "11PM"
+  },
+  {
+    "time": "2025-06-12T00:00:00",
+    "temperature": 63,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 95,
+    "day": "Thu",
+    "hour": "12AM"
+  },
+  {
+    "time": "2025-06-12T01:00:00",
+    "temperature": 63,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 96,
+    "day": "Thu",
+    "hour": "1AM"
+  },
+  {
+    "time": "2025-06-12T02:00:00",
+    "temperature": 63,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 95,
+    "day": "Thu",
+    "hour": "2AM"
+  },
+  {
+    "time": "2025-06-12T03:00:00",
+    "temperature": 63,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 95,
+    "day": "Thu",
+    "hour": "3AM"
+  },
+  {
+    "time": "2025-06-12T04:00:00",
+    "temperature": 62,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 94,
+    "day": "Thu",
+    "hour": "4AM"
+  },
+  {
+    "time": "2025-06-12T05:00:00",
+    "temperature": 63,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 94,
+    "day": "Thu",
+    "hour": "5AM"
+  },
+  {
+    "time": "2025-06-12T06:00:00",
+    "temperature": 63,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 92,
+    "day": "Thu",
+    "hour": "6AM"
+  },
+  {
+    "time": "2025-06-12T07:00:00",
+    "temperature": 64,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 90,
+    "day": "Thu",
+    "hour": "7AM"
+  },
+  {
+    "time": "2025-06-12T08:00:00",
+    "temperature": 66,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 87,
+    "day": "Thu",
+    "hour": "8AM"
+  },
+  {
+    "time": "2025-06-12T09:00:00",
+    "temperature": 68,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 83,
+    "day": "Thu",
+    "hour": "9AM"
+  },
+  {
+    "time": "2025-06-12T10:00:00",
+    "temperature": 70,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 79,
+    "day": "Thu",
+    "hour": "10AM"
+  },
+  {
+    "time": "2025-06-12T11:00:00",
+    "temperature": 72,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 75,
+    "day": "Thu",
+    "hour": "11AM"
+  },
+  {
+    "time": "2025-06-12T12:00:00",
+    "temperature": 73,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 71,
+    "day": "Thu",
+    "hour": "12PM"
+  },
+  {
+    "time": "2025-06-12T13:00:00",
+    "temperature": 74,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 68,
+    "day": "Thu",
+    "hour": "1PM"
+  },
+  {
+    "time": "2025-06-12T14:00:00",
+    "temperature": 74,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 66,
+    "day": "Thu",
+    "hour": "2PM"
+  },
+  {
+    "time": "2025-06-12T15:00:00",
+    "temperature": 74,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 66,
+    "day": "Thu",
+    "hour": "3PM"
+  },
+  {
+    "time": "2025-06-12T16:00:00",
+    "temperature": 73,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 68,
+    "day": "Thu",
+    "hour": "4PM"
+  },
+  {
+    "time": "2025-06-12T17:00:00",
+    "temperature": 72,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 71,
+    "day": "Thu",
+    "hour": "5PM"
+  },
+  {
+    "time": "2025-06-12T18:00:00",
+    "temperature": 70,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 76,
+    "day": "Thu",
+    "hour": "6PM"
+  },
+  {
+    "time": "2025-06-12T19:00:00",
+    "temperature": 68,
+    "windSpeed": 10,
+    "probPrecip": 0,
+    "humidity": 81,
+    "day": "Thu",
+    "hour": "7PM"
+  },
+  {
+    "time": "2025-06-12T20:00:00",
+    "temperature": 66,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 86,
+    "day": "Thu",
+    "hour": "8PM"
+  },
+  {
+    "time": "2025-06-12T21:00:00",
+    "temperature": 65,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 88,
+    "day": "Thu",
+    "hour": "9PM"
+  },
+  {
+    "time": "2025-06-12T22:00:00",
+    "temperature": 64,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 90,
+    "day": "Thu",
+    "hour": "10PM"
+  },
+  {
+    "time": "2025-06-12T23:00:00",
+    "temperature": 64,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 90,
+    "day": "Thu",
+    "hour": "11PM"
+  },
+  {
+    "time": "2025-06-13T00:00:00",
+    "temperature": 63,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 91,
+    "day": "Fri",
+    "hour": "12AM"
+  },
+  {
+    "time": "2025-06-13T01:00:00",
+    "temperature": 63,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 92,
+    "day": "Fri",
+    "hour": "1AM"
+  },
+  {
+    "time": "2025-06-13T02:00:00",
+    "temperature": 63,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 92,
+    "day": "Fri",
+    "hour": "2AM"
+  },
+  {
+    "time": "2025-06-13T03:00:00",
+    "temperature": 62,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 92,
+    "day": "Fri",
+    "hour": "3AM"
+  },
+  {
+    "time": "2025-06-13T04:00:00",
+    "temperature": 62,
+    "windSpeed": 5,
+    "probPrecip": 0,
+    "humidity": 93,
+    "day": "Fri",
+    "hour": "4AM"
+  },
+  {
+    "time": "2025-06-13T05:00:00",
+    "temperature": 62,
+    "windSpeed": 5,
+    "probPrecip": 1,
+    "humidity": 92,
+    "day": "Fri",
+    "hour": "5AM"
+  },
+  {
+    "time": "2025-06-13T06:00:00",
+    "temperature": 62,
+    "windSpeed": 5,
+    "probPrecip": 1,
+    "humidity": 92,
+    "day": "Fri",
+    "hour": "6AM"
+  },
+  {
+    "time": "2025-06-13T07:00:00",
+    "temperature": 63,
+    "windSpeed": 5,
+    "probPrecip": 1,
+    "humidity": 90,
+    "day": "Fri",
+    "hour": "7AM"
+  }
+]
